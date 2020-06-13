@@ -1,5 +1,5 @@
 {
-    "ID":"d4d6bb38-acf4-11ea-bb37-0242ac130002",
+    "ID":"d4d6bb38acf4-11eabb370242ac130002",
     "ActionKeyword":"speed",
     "Name":"Speedcalculator",
     "Description":"Calculates playback speed for people who want to know\nUsage: 00h 00m 00x",
