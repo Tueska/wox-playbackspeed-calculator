@@ -1,0 +1,12 @@
+{
+    "ID":"d4d6bb38-acf4-11ea-bb37-0242ac130002",
+    "ActionKeyword":"speed",
+    "Name":"Speedcalculator",
+    "Description":"Calculates playback speed for people who want to know\nUsage: 00h 00m 00x",
+    "Author":"Tueska",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/Tueska/wox-playbackspeedcalculator",
+    "IcoPath":"clock.png",
+    "ExecuteFileName":"run.py"
+}
