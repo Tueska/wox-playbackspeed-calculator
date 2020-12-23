@@ -10,7 +10,7 @@ class HelloWorld(Wox):
 
         rhh = re.findall('\d*h', query)
         rmm = re.findall('\d*m', query)
-        rmultiplier = re.findall('\d*\.\d{1,}x', query)
+        rmultiplier = re.findall('\d*\.?\d{1,}x', query)
 
         hh = float(rhh[0].replace('h', '')) if (len(rhh) != 0) else 0
         mm = float(rmm[0].replace('m', '')) if (len(rmm) != 0) else 0
