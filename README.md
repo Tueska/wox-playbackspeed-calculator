@@ -1,5 +1,5 @@
 # wox-playbackspeedcalculator
-Wox Plugin for easily calculating playback speed for people who really to know
+Wox Plugin for easy calculation of playback speeds for people who really want to know
 
 Usage examples:<br/>
 <b>"speed 30m 1.2x"<br/>
